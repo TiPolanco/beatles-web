@@ -850,7 +850,7 @@ const contracts = {
 				"type": "function"
 			}
 		],
-        address: '0x91E741eaA4d234f4A4b8C5d3cd9ebcF8b8d6314d',
+        address: '0x4FA8bab6F6ee4A225B5BC905CE5c154E5dBf97F8',
         chainId: 10001,
     },
 };

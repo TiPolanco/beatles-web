@@ -2,10 +2,11 @@
 
 .app {
   text-align: center;
-  /* background-image: url('https://images.immediate.co.uk/production/volatile/sites/23/2020/08/Beech-trees.-GettyImages-98871576-5cc0f6f.jpg'); */
+  background-image: url('../public/bg.gif');
   height: fit-content;
   min-height: 100vh;
-  background-color: #28211b;
+  /* background-color: #28211b; */
+  background-size: cover;
   font-family: "Rubik Moonrocks";
 }
 
@@ -21,7 +22,8 @@
 }
 
 .nav-bar .title {
-  color: #ffdf70;
+  /* color: #ffdf70; */
+  color: #28211b;
   font-size: 1.8rem;
   font-weight: 800;
   line-height: 40px;
@@ -30,7 +32,7 @@
 .main {
   width: fit-content;
   margin: 1rem auto;
-  background-color: rgba(255, 255, 255, 0.627);
+  background-color: rgba(255, 255, 255, 0.827);
   padding: 30px;
   border-radius: 1rem;
   color: #6c6c6c;
@@ -88,7 +90,8 @@
 }
 
 .footer {
-  color: #f9e9b4;
+  color: #28211b;
+  /* color: #f9e9b4; */
   padding: 12px;
 }
 
@@ -101,11 +104,11 @@
 
 .footer .links a {
   text-decoration: none;
-  color: #fff;
+  color: #28211b;
 }
 
 .footer .icon {
-  filter: invert(1);
+  /* filter: invert(1); */
   vertical-align: bottom;
   width: 19px;
   margin-right: 5px;
